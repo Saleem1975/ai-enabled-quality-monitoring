@@ -1,0 +1,4 @@
+pattern_pair,reported_note
+Cyclic → Systematic,Approximately 0.7% of cyclic patterns were confused with systematic patterns
+Systematic → Cyclic,Approximately 0.8% of systematic patterns were confused with cyclic patterns
+Upward Trend minor confusion,Upward trend patterns were rarely confused with several other classes at approximately 0.1%

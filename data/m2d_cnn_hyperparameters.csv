@@ -1,0 +1,11 @@
+hyperparameter,value
+Learning rate,0.05
+Batch size,32
+Filters,8
+Filter size,8 x 8
+Strides,2 x 2
+Epochs,20
+Optimizer,Adam
+Convolution activation,ReLU
+Output activation,Softmax
+Pooling,MaxPooling 2 x 2

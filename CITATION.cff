@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Pattern Recognition in Phase I Control Charts via Multimodal 2D Convolutional Neural Networks: A Fusion of Visual and Numerical Data"
+message: "If you use this work, please cite the published paper."
+authors:
+  - family-names: Ramadan
+    given-names: Saleem
+  - family-names: Almasarwah
+    given-names: Najat
+conference: "2025 IEEE International Conference on Emerging Trends in Engineering and Computing (ETECOM)"
+year: 2025

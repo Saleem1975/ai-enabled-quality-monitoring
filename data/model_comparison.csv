@@ -1,0 +1,7 @@
+model,accuracy_percent,std_deviation,parameters
+ANN,96.32,1.9,3288
+1L-1D-CNN,98.64,0.56,678
+2L-1D-CNN,98.37,0.52,408
+3L-1D-CNN,98.34,0.63,538
+Improved 1D-CNN,98.96,0.32,748
+m2D-CNN,99.21,0.39,15763001

@@ -1,0 +1,577 @@
+pattern_name,time_index,value
+Normal,1,-0.3123
+Normal,2,0.3393
+Normal,3,-0.1559
+Normal,4,-0.5018
+Normal,5,0.2356
+Normal,6,-1.7636
+Normal,7,-1.0959
+Normal,8,-1.0878
+Normal,9,-0.3052
+Normal,10,-0.4737
+Normal,11,-0.2006
+Normal,12,0.3552
+Normal,13,0.6895
+Normal,14,0.4106
+Normal,15,-0.565
+Normal,16,0.5994
+Normal,17,-0.1629
+Normal,18,1.6002
+Normal,19,0.6816
+Normal,20,0.0149
+Normal,21,-0.0878
+Normal,22,-0.9821
+Normal,23,0.1217
+Normal,24,-1.1374
+Normal,25,0.349
+Normal,26,-1.8585
+Normal,27,-1.1672
+Normal,28,1.4249
+Normal,29,1.4966
+Normal,30,1.2899
+Normal,31,-1.8117
+Normal,32,-1.4983
+Normal,33,-1.4501
+Normal,34,-1.6939
+Normal,35,0.2273
+Normal,36,-0.4897
+Normal,37,-0.0005
+Normal,38,-0.4903
+Normal,39,-0.7932
+Normal,40,2.0489
+Normal,41,0.6032
+Normal,42,-0.9982
+Normal,43,1.215
+Normal,44,-0.6675
+Normal,45,-0.2725
+Normal,46,1.4168
+Normal,47,-0.7826
+Normal,48,-0.2503
+Normal,49,-0.3083
+Normal,50,1.7297
+Normal,51,1.9783
+Normal,52,0.2197
+Normal,53,1.8948
+Normal,54,-1.3681
+Normal,55,-0.1913
+Normal,56,1.2873
+Normal,57,-0.2469
+Normal,58,0.3426
+Normal,59,0.2227
+Normal,60,0.6816
+Normal,61,0.2514
+Normal,62,-1.4818
+Normal,63,-0.3868
+Normal,64,-0.7337
+Upward Trend,1,-0.2323
+Upward Trend,2,0.4993
+Upward Trend,3,0.0841
+Upward Trend,4,-0.1818
+Upward Trend,5,0.6356
+Upward Trend,6,-1.2836
+Upward Trend,7,-0.5359
+Upward Trend,8,-0.4478
+Upward Trend,9,0.4148
+Upward Trend,10,0.3263
+Upward Trend,11,0.6794
+Upward Trend,12,1.3152
+Upward Trend,13,1.7295
+Upward Trend,14,1.5306
+Upward Trend,15,0.635
+Upward Trend,16,1.8794
+Upward Trend,17,1.1971
+Upward Trend,18,3.0402
+Upward Trend,19,2.2016
+Upward Trend,20,1.6149
+Upward Trend,21,1.5922
+Upward Trend,22,0.7779
+Upward Trend,23,1.9617
+Upward Trend,24,0.7826
+Upward Trend,25,2.349
+Upward Trend,26,0.2215
+Upward Trend,27,0.9928
+Upward Trend,28,3.6649
+Upward Trend,29,3.8166
+Upward Trend,30,3.6899
+Upward Trend,31,0.6683
+Upward Trend,32,1.0617
+Upward Trend,33,1.1899
+Upward Trend,34,1.0261
+Upward Trend,35,3.0273
+Upward Trend,36,2.3903
+Upward Trend,37,2.9595
+Upward Trend,38,2.5497
+Upward Trend,39,2.3268
+Upward Trend,40,5.2489
+Upward Trend,41,3.8832
+Upward Trend,42,2.3618
+Upward Trend,43,4.655
+Upward Trend,44,2.8525
+Upward Trend,45,3.3275
+Upward Trend,46,5.0968
+Upward Trend,47,2.9774
+Upward Trend,48,3.5897
+Upward Trend,49,3.6117
+Upward Trend,50,5.7297
+Upward Trend,51,6.0583
+Upward Trend,52,4.3797
+Upward Trend,53,6.1348
+Upward Trend,54,2.9519
+Upward Trend,55,4.2087
+Upward Trend,56,5.7673
+Upward Trend,57,4.3131
+Upward Trend,58,4.9826
+Upward Trend,59,4.9427
+Upward Trend,60,5.4816
+Upward Trend,61,5.1314
+Upward Trend,62,3.4782
+Upward Trend,63,4.6532
+Upward Trend,64,4.3863
+Downward Trend,1,-0.3923
+Downward Trend,2,0.1793
+Downward Trend,3,-0.3959
+Downward Trend,4,-0.8218
+Downward Trend,5,-0.1644
+Downward Trend,6,-2.2436
+Downward Trend,7,-1.6559
+Downward Trend,8,-1.7278
+Downward Trend,9,-1.0252
+Downward Trend,10,-1.2737
+Downward Trend,11,-1.0806
+Downward Trend,12,-0.6048
+Downward Trend,13,-0.3505
+Downward Trend,14,-0.7094
+Downward Trend,15,-1.765
+Downward Trend,16,-0.6806
+Downward Trend,17,-1.5229
+Downward Trend,18,0.1602
+Downward Trend,19,-0.8384
+Downward Trend,20,-1.5851
+Downward Trend,21,-1.7678
+Downward Trend,22,-2.7421
+Downward Trend,23,-1.7183
+Downward Trend,24,-3.0574
+Downward Trend,25,-1.651
+Downward Trend,26,-3.9385
+Downward Trend,27,-3.3272
+Downward Trend,28,-0.8151
+Downward Trend,29,-0.8234
+Downward Trend,30,-1.1101
+Downward Trend,31,-4.2917
+Downward Trend,32,-4.0583
+Downward Trend,33,-4.0901
+Downward Trend,34,-4.4139
+Downward Trend,35,-2.5727
+Downward Trend,36,-3.3697
+Downward Trend,37,-2.9605
+Downward Trend,38,-3.5303
+Downward Trend,39,-3.9132
+Downward Trend,40,-1.1511
+Downward Trend,41,-2.6768
+Downward Trend,42,-4.3582
+Downward Trend,43,-2.225
+Downward Trend,44,-4.1875
+Downward Trend,45,-3.8725
+Downward Trend,46,-2.2632
+Downward Trend,47,-4.5426
+Downward Trend,48,-4.0903
+Downward Trend,49,-4.2283
+Downward Trend,50,-2.2703
+Downward Trend,51,-2.1017
+Downward Trend,52,-3.9403
+Downward Trend,53,-2.3452
+Downward Trend,54,-5.6881
+Downward Trend,55,-4.5913
+Downward Trend,56,-3.1927
+Downward Trend,57,-4.8069
+Downward Trend,58,-4.2974
+Downward Trend,59,-4.4973
+Downward Trend,60,-4.1184
+Downward Trend,61,-4.6286
+Downward Trend,62,-6.4418
+Downward Trend,63,-5.4268
+Downward Trend,64,-5.8537
+Upward Shift,1,-0.3123
+Upward Shift,2,0.3393
+Upward Shift,3,-0.1559
+Upward Shift,4,-0.5018
+Upward Shift,5,0.2356
+Upward Shift,6,-1.7636
+Upward Shift,7,-1.0959
+Upward Shift,8,-1.0878
+Upward Shift,9,-0.3052
+Upward Shift,10,-0.4737
+Upward Shift,11,-0.2006
+Upward Shift,12,0.3552
+Upward Shift,13,0.6895
+Upward Shift,14,0.4106
+Upward Shift,15,-0.565
+Upward Shift,16,0.5994
+Upward Shift,17,-0.1629
+Upward Shift,18,3.6002
+Upward Shift,19,2.6816
+Upward Shift,20,2.0149
+Upward Shift,21,1.9122
+Upward Shift,22,1.0179
+Upward Shift,23,2.1217
+Upward Shift,24,0.8626
+Upward Shift,25,2.349
+Upward Shift,26,0.1415
+Upward Shift,27,0.8328
+Upward Shift,28,3.4249
+Upward Shift,29,3.4966
+Upward Shift,30,3.2899
+Upward Shift,31,0.1883
+Upward Shift,32,0.5017
+Upward Shift,33,0.5499
+Upward Shift,34,0.3061
+Upward Shift,35,2.2273
+Upward Shift,36,1.5103
+Upward Shift,37,1.9995
+Upward Shift,38,1.5097
+Upward Shift,39,1.2068
+Upward Shift,40,4.0489
+Upward Shift,41,2.6032
+Upward Shift,42,1.0018
+Upward Shift,43,3.215
+Upward Shift,44,1.3325
+Upward Shift,45,1.7275
+Upward Shift,46,3.4168
+Upward Shift,47,1.2174
+Upward Shift,48,1.7497
+Upward Shift,49,1.6917
+Upward Shift,50,3.7297
+Upward Shift,51,3.9783
+Upward Shift,52,2.2197
+Upward Shift,53,3.8948
+Upward Shift,54,0.6319
+Upward Shift,55,1.8087
+Upward Shift,56,3.2873
+Upward Shift,57,1.7531
+Upward Shift,58,2.3426
+Upward Shift,59,2.2227
+Upward Shift,60,2.6816
+Upward Shift,61,2.2514
+Upward Shift,62,0.5182
+Upward Shift,63,1.6132
+Upward Shift,64,1.2663
+Downward Shift,1,-0.3123
+Downward Shift,2,0.3393
+Downward Shift,3,-0.1559
+Downward Shift,4,-0.5018
+Downward Shift,5,0.2356
+Downward Shift,6,-1.7636
+Downward Shift,7,-1.0959
+Downward Shift,8,-1.0878
+Downward Shift,9,-0.3052
+Downward Shift,10,-0.4737
+Downward Shift,11,-0.2006
+Downward Shift,12,0.3552
+Downward Shift,13,0.6895
+Downward Shift,14,0.4106
+Downward Shift,15,-0.565
+Downward Shift,16,0.5994
+Downward Shift,17,-0.1629
+Downward Shift,18,-0.3998
+Downward Shift,19,-1.3184
+Downward Shift,20,-1.9851
+Downward Shift,21,-2.0878
+Downward Shift,22,-2.9821
+Downward Shift,23,-1.8783
+Downward Shift,24,-3.1374
+Downward Shift,25,-1.651
+Downward Shift,26,-3.8585
+Downward Shift,27,-3.1672
+Downward Shift,28,-0.5751
+Downward Shift,29,-0.5034
+Downward Shift,30,-0.7101
+Downward Shift,31,-3.8117
+Downward Shift,32,-3.4983
+Downward Shift,33,-3.4501
+Downward Shift,34,-3.6939
+Downward Shift,35,-1.7727
+Downward Shift,36,-2.4897
+Downward Shift,37,-2.0005
+Downward Shift,38,-2.4903
+Downward Shift,39,-2.7932
+Downward Shift,40,0.0489
+Downward Shift,41,-1.3968
+Downward Shift,42,-2.9982
+Downward Shift,43,-0.785
+Downward Shift,44,-2.6675
+Downward Shift,45,-2.2725
+Downward Shift,46,-0.5832
+Downward Shift,47,-2.7826
+Downward Shift,48,-2.2503
+Downward Shift,49,-2.3083
+Downward Shift,50,-0.2703
+Downward Shift,51,-0.0217
+Downward Shift,52,-1.7803
+Downward Shift,53,-0.1052
+Downward Shift,54,-3.3681
+Downward Shift,55,-2.1913
+Downward Shift,56,-0.7127
+Downward Shift,57,-2.2469
+Downward Shift,58,-1.6574
+Downward Shift,59,-1.7773
+Downward Shift,60,-1.3184
+Downward Shift,61,-1.7486
+Downward Shift,62,-3.4818
+Downward Shift,63,-2.3868
+Downward Shift,64,-2.7337
+Cyclic,1,0.453
+Cyclic,2,1.7535
+Cyclic,3,1.6919
+Cyclic,4,1.4982
+Cyclic,5,2.0833
+Cyclic,6,-0.3494
+Cyclic,7,-0.3305
+Cyclic,8,-1.0878
+Cyclic,9,-1.0705
+Cyclic,10,-1.888
+Cyclic,11,-2.0484
+Cyclic,12,-1.6448
+Cyclic,13,-1.1582
+Cyclic,14,-1.0036
+Cyclic,15,-1.3303
+Cyclic,16,0.5994
+Cyclic,17,0.6024
+Cyclic,18,3.0144
+Cyclic,19,2.5294
+Cyclic,20,2.0149
+Cyclic,21,1.76
+Cyclic,22,0.4321
+Cyclic,23,0.8871
+Cyclic,24,-1.1374
+Cyclic,25,-0.4164
+Cyclic,26,-3.2727
+Cyclic,27,-3.0149
+Cyclic,28,-0.5751
+Cyclic,29,-0.3512
+Cyclic,30,-0.1243
+Cyclic,31,-2.5771
+Cyclic,32,-1.4983
+Cyclic,33,-0.6848
+Cyclic,34,-0.2797
+Cyclic,35,2.075
+Cyclic,36,1.5103
+Cyclic,37,1.8472
+Cyclic,38,0.924
+Cyclic,39,-0.0278
+Cyclic,40,2.0489
+Cyclic,41,-0.1622
+Cyclic,42,-2.4124
+Cyclic,43,-0.6327
+Cyclic,44,-2.6675
+Cyclic,45,-2.1203
+Cyclic,46,0.0026
+Cyclic,47,-1.548
+Cyclic,48,-0.2503
+Cyclic,49,0.4571
+Cyclic,50,3.1439
+Cyclic,51,3.826
+Cyclic,52,2.2197
+Cyclic,53,3.7426
+Cyclic,54,0.0461
+Cyclic,55,0.5741
+Cyclic,56,1.2873
+Cyclic,57,-1.0123
+Cyclic,58,-1.0717
+Cyclic,59,-1.625
+Cyclic,60,-1.3184
+Cyclic,61,-1.5963
+Cyclic,62,-2.8961
+Cyclic,63,-1.1522
+Cyclic,64,-0.7337
+Systematic,1,-2.3123
+Systematic,2,2.3393
+Systematic,3,-2.1559
+Systematic,4,1.4982
+Systematic,5,-1.7644
+Systematic,6,0.2364
+Systematic,7,-3.0959
+Systematic,8,0.9122
+Systematic,9,-2.3052
+Systematic,10,1.5263
+Systematic,11,-2.2006
+Systematic,12,2.3552
+Systematic,13,-1.3105
+Systematic,14,2.4106
+Systematic,15,-2.565
+Systematic,16,2.5994
+Systematic,17,-2.1629
+Systematic,18,3.6002
+Systematic,19,-1.3184
+Systematic,20,2.0149
+Systematic,21,-2.0878
+Systematic,22,1.0179
+Systematic,23,-1.8783
+Systematic,24,0.8626
+Systematic,25,-1.651
+Systematic,26,0.1415
+Systematic,27,-3.1672
+Systematic,28,3.4249
+Systematic,29,-0.5034
+Systematic,30,3.2899
+Systematic,31,-3.8117
+Systematic,32,0.5017
+Systematic,33,-3.4501
+Systematic,34,0.3061
+Systematic,35,-1.7727
+Systematic,36,1.5103
+Systematic,37,-2.0005
+Systematic,38,1.5097
+Systematic,39,-2.7932
+Systematic,40,4.0489
+Systematic,41,-1.3968
+Systematic,42,1.0018
+Systematic,43,-0.785
+Systematic,44,1.3325
+Systematic,45,-2.2725
+Systematic,46,3.4168
+Systematic,47,-2.7826
+Systematic,48,1.7497
+Systematic,49,-2.3083
+Systematic,50,3.7297
+Systematic,51,-0.0217
+Systematic,52,2.2197
+Systematic,53,-0.1052
+Systematic,54,0.6319
+Systematic,55,-2.1913
+Systematic,56,3.2873
+Systematic,57,-2.2469
+Systematic,58,2.3426
+Systematic,59,-1.7773
+Systematic,60,2.6816
+Systematic,61,-1.7486
+Systematic,62,0.5182
+Systematic,63,-2.3868
+Systematic,64,1.2663
+Mixture,1,-4.3123
+Mixture,2,4.3393
+Mixture,3,-4.1559
+Mixture,4,3.4982
+Mixture,5,-3.7644
+Mixture,6,2.2364
+Mixture,7,-5.0959
+Mixture,8,2.9122
+Mixture,9,-4.3052
+Mixture,10,3.5263
+Mixture,11,-4.2006
+Mixture,12,4.3552
+Mixture,13,-3.3105
+Mixture,14,4.4106
+Mixture,15,-4.565
+Mixture,16,4.5994
+Mixture,17,-4.1629
+Mixture,18,5.6002
+Mixture,19,-3.3184
+Mixture,20,4.0149
+Mixture,21,-4.0878
+Mixture,22,3.0179
+Mixture,23,-3.8783
+Mixture,24,2.8626
+Mixture,25,-3.651
+Mixture,26,2.1415
+Mixture,27,-5.1672
+Mixture,28,5.4249
+Mixture,29,-2.5034
+Mixture,30,5.2899
+Mixture,31,-5.8117
+Mixture,32,2.5017
+Mixture,33,-5.4501
+Mixture,34,2.3061
+Mixture,35,-3.7727
+Mixture,36,3.5103
+Mixture,37,-4.0005
+Mixture,38,3.5097
+Mixture,39,-4.7932
+Mixture,40,6.0489
+Mixture,41,-3.3968
+Mixture,42,3.0018
+Mixture,43,-2.785
+Mixture,44,3.3325
+Mixture,45,-4.2725
+Mixture,46,5.4168
+Mixture,47,-4.7826
+Mixture,48,3.7497
+Mixture,49,-4.3083
+Mixture,50,5.7297
+Mixture,51,-2.0217
+Mixture,52,4.2197
+Mixture,53,-2.1052
+Mixture,54,2.6319
+Mixture,55,-4.1913
+Mixture,56,5.2873
+Mixture,57,-4.2469
+Mixture,58,4.3426
+Mixture,59,-3.7773
+Mixture,60,4.6816
+Mixture,61,-3.7486
+Mixture,62,2.5182
+Mixture,63,-4.3868
+Mixture,64,3.2663
+Stratification,1,0.1758
+Stratification,2,-0.5207
+Stratification,3,-0.248
+Stratification,4,0.3552
+Stratification,5,0.1065
+Stratification,6,0.7329
+Stratification,7,-0.0111
+Stratification,8,-0.8135
+Stratification,9,0.2974
+Stratification,10,0.0577
+Stratification,11,-0.1058
+Stratification,12,-0.4019
+Stratification,13,-0.0566
+Stratification,14,0.179
+Stratification,15,0.1021
+Stratification,16,0.025
+Stratification,17,0.1818
+Stratification,18,0.0507
+Stratification,19,-0.3117
+Stratification,20,0.0856
+Stratification,21,0.1507
+Stratification,22,0.5802
+Stratification,23,0.0145
+Stratification,24,-0.3155
+Stratification,25,0.35
+Stratification,26,0.2206
+Stratification,27,-0.1689
+Stratification,28,-0.3639
+Stratification,29,0.4644
+Stratification,30,-0.5094
+Stratification,31,-0.1895
+Stratification,32,0.0859
+Stratification,33,-0.3144
+Stratification,34,-0.0559
+Stratification,35,0.1493
+Stratification,36,-0.1214
+Stratification,37,-0.3852
+Stratification,38,-0.1843
+Stratification,39,-0.0324
+Stratification,40,0.3401
+Stratification,41,-0.3109
+Stratification,42,0.4534
+Stratification,43,-0.2605
+Stratification,44,0.4177
+Stratification,45,0.6525
+Stratification,46,0.3897
+Stratification,47,-0.0564
+Stratification,48,0.5007
+Stratification,49,0.3464
+Stratification,50,0.1445
+Stratification,51,-0.0534
+Stratification,52,-0.1159
+Stratification,53,-0.039
+Stratification,54,0.7079
+Stratification,55,0.1551
+Stratification,56,0.1324
+Stratification,57,-0.1427
+Stratification,58,0.0985
+Stratification,59,-0.0848
+Stratification,60,-0.2161
+Stratification,61,0.0265
+Stratification,62,-0.1418
+Stratification,63,0.039
+Stratification,64,-0.0321

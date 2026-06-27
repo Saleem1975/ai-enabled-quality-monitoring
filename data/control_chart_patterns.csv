@@ -1,0 +1,10 @@
+pattern_code,pattern_name,quality_interpretation
+NOR,Normal / Random,Process fluctuates randomly around the central line
+UT,Upward Trend,Systematic increase in the process
+DT,Downward Trend,Systematic decrease in the process
+US,Upward Shift,Sudden process shift above the previous level
+DS,Downward Shift,Sudden process shift below the previous level
+CYC,Cyclic,Recurring wave-like behavior
+SYS,Systematic,Alternating high-low process behavior
+MIX,Mixture,Values cluster near control limits
+STR,Stratification,Values cluster tightly around the center line

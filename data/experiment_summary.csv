@@ -1,0 +1,13 @@
+item,value
+Patterns classified,9
+Samples per pattern,4000
+Total generated samples,36000
+Sequence length,64 data points
+Training split,80%
+Validation split,20%
+Repeated experiments,30
+Input modality 1,Phase I control chart image
+Input modality 2,Histogram image
+Input modality 3,Numerical statistics
+Numerical features,"Mean, standard deviation, skewness"
+Best reported accuracy,99.21%
